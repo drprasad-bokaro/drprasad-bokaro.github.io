@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drprasad.netlify.app/sitemap.xml
